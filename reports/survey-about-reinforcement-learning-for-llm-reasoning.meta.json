@@ -1,0 +1,19 @@
+{
+  "topic": "survey about reinforcement learning for LLM reasoning",
+  "model": "gmm/cx/gpt-6-luna",
+  "elapsed_s": 343.4,
+  "subagent_calls": 4,
+  "tool_calls": {
+    "task": 4
+  },
+  "tokens": {
+    "input": 30469,
+    "output": 333
+  },
+  "n_sources": 8,
+  "source_families": [
+    "arxiv",
+    "hf-search",
+    "web"
+  ]
+}

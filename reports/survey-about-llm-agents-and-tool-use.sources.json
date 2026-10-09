@@ -1,0 +1,44 @@
+[
+  {
+    "n": 1,
+    "title": "Tool Learning with Large Language Models: A Survey",
+    "url": "https://arxiv.org/abs/2405.17935",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "title": "Survey on Evaluation of LLM-based Agents",
+    "url": "https://huggingface.co/papers/2503.16416",
+    "source": "hf-search"
+  },
+  {
+    "n": 3,
+    "title": "API-Bank",
+    "url": "https://aclanthology.org/2023.emnlp-main.187/",
+    "source": "web"
+  },
+  {
+    "n": 4,
+    "title": "ToolLLM",
+    "url": "https://arxiv.org/abs/2307.16789",
+    "source": "arxiv"
+  },
+  {
+    "n": 5,
+    "title": "ToolUsage / UltraTool",
+    "url": "https://aclanthology.org/2024.findings-acl.259.pdf",
+    "source": "web"
+  },
+  {
+    "n": 6,
+    "title": "m&ms benchmark project",
+    "url": "https://github.com/RAIVNLab/mms",
+    "source": "web"
+  },
+  {
+    "n": 7,
+    "title": "Evaluation and Benchmarking of LLM Agents",
+    "url": "https://dl.acm.org/doi/abs/10.1145/3711896.3736570",
+    "source": "web"
+  }
+]

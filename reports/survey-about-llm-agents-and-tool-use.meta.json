@@ -1,0 +1,25 @@
+{
+  "topic": "survey about LLM agents and tool use",
+  "model": "gmm/cx/gpt-6-luna",
+  "elapsed_s": 785.5,
+  "subagent_calls": 5,
+  "tool_calls": {
+    "execute": 24,
+    "glob": 1,
+    "grep": 4,
+    "ls": 2,
+    "read_file": 56,
+    "task": 5,
+    "write_file": 11
+  },
+  "tokens": {
+    "input": 1432682,
+    "output": 17740
+  },
+  "n_sources": 7,
+  "source_families": [
+    "arxiv",
+    "hf-search",
+    "web"
+  ]
+}

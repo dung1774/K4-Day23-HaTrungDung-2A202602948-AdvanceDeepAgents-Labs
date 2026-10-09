@@ -1,0 +1,79 @@
+[
+  {
+    "n": 1,
+    "title": "Understanding World or Predicting Future? A Comprehensive Survey of World Models",
+    "source": "web",
+    "date": "2025-09-09",
+    "url": "https://dl.acm.org/doi/10.1145/3746449"
+  },
+  {
+    "n": 2,
+    "title": "Model-based Reinforcement Learning: A Survey",
+    "source": "web",
+    "date": "2018",
+    "url": "https://liacs.leidenuniv.nl/~plaata1/papers/model_based_rl_survey_fnt.pdf"
+  },
+  {
+    "n": 3,
+    "title": "A Survey on Model-Based Reinforcement Learning",
+    "source": "web",
+    "date": "n.d.",
+    "url": "https://arxiv.org/pdf/2206.09328"
+  },
+  {
+    "n": 4,
+    "title": "World Models: The Safety Perspective",
+    "source": "web",
+    "date": "2024-11",
+    "url": "https://arxiv.org/html/2411.07690v1"
+  },
+  {
+    "n": 5,
+    "title": "Recurrent World Models Facilitate Policy Evolution",
+    "source": "arxiv",
+    "date": "2018-09-04",
+    "url": "https://arxiv.org/abs/1809.01999"
+  },
+  {
+    "n": 6,
+    "title": "Introducing Dreamer: Scalable Reinforcement Learning Using World Models",
+    "source": "web",
+    "date": "2020-03-18",
+    "url": "https://research.google/blog/introducing-dreamer-scalable-reinforcement-learning-using-world-models/"
+  },
+  {
+    "n": 7,
+    "title": "Robotic Video World Models: A Survey of Applications and Challenges",
+    "source": "web",
+    "date": "2026-09-17",
+    "url": "https://arxiv.org/html/2601.07823v2"
+  },
+  {
+    "n": 8,
+    "title": "World Action Models: The Next Frontier in Embodied AI",
+    "source": "hf-search",
+    "date": "2026-05-12",
+    "url": "https://huggingface.co/papers/2605.12090"
+  },
+  {
+    "n": 9,
+    "title": "OSCAR: Omni-Embodiment Action-Conditioned World Model for Robotics",
+    "source": "web",
+    "date": "2026-06-03",
+    "url": "https://arxiv.org/abs/2606.04463"
+  },
+  {
+    "n": 10,
+    "title": "Making Foresight Actionable: Repurposing Representation Alignment in World Action Models",
+    "source": "web",
+    "date": "2026-06-10",
+    "url": "https://arxiv.org/abs/2606.12217"
+  },
+  {
+    "n": 11,
+    "title": "Say, Dream, and Act: Learning Video World Models for Instruction-Driven Robot Manipulation",
+    "source": "web",
+    "date": "n.d.",
+    "url": "https://arxiv.org/abs/2602.10717"
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "topic": "survey about world model",
+  "model": "gmm/cx/gpt-6-luna",
+  "elapsed_s": 230.2,
+  "subagent_calls": 3,
+  "tool_calls": {
+    "execute": 3,
+    "glob": 1,
+    "ls": 1,
+    "read_file": 9,
+    "task": 3,
+    "write_file": 2
+  },
+  "tokens": {
+    "input": 194962,
+    "output": 3345
+  },
+  "n_sources": 11,
+  "source_families": [
+    "arxiv",
+    "hf-search",
+    "web"
+  ]
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "title": "A Survey of Small Language Models",
+    "url": "https://arxiv.org/abs/2410.20011",
+    "n": 1,
+    "source": "arxiv"
+  },
+  {
+    "title": "A Comprehensive Evaluation of Quantization Strategies for Large Language Models",
+    "url": "https://huggingface.co/papers/2402.16775",
+    "n": 2,
+    "source": "hf-search"
+  },
+  {
+    "title": "AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration",
+    "url": "https://arxiv.org/html/2306.00978v2",
+    "n": 3,
+    "source": "web"
+  },
+  {
+    "title": "Efficient Memory Management for Large Language Model Serving with PagedAttention",
+    "url": "https://dl.acm.org/doi/10.1145/3600006.3613165",
+    "n": 4,
+    "source": "web"
+  },
+  {
+    "title": "vLLM: Easy, Fast, and Cheap LLM Serving with PagedAttention",
+    "url": "https://vllm.ai/blog/2023-06-20-vllm",
+    "n": 5,
+    "source": "web"
+  },
+  {
+    "title": "Speculative Decoding - vLLM",
+    "url": "https://docs.vllm.ai/en/stable/features/speculative_decoding/#speculative-decoding",
+    "n": 6,
+    "source": "web"
+  },
+  {
+    "title": "Speculative Decoding: Performance or Illusion?",
+    "url": "https://arxiv.org/html/2601.11580",
+    "n": 7,
+    "source": "web"
+  },
+  {
+    "title": "Speculative Decoding Meets Quantization: Compatibility Evaluation and Hierarchical Framework Design",
+    "url": "https://huggingface.co/papers/2505.22179",
+    "n": 8,
+    "source": "hf-search"
+  }
+]

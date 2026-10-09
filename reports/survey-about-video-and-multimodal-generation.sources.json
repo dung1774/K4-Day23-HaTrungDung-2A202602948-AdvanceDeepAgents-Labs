@@ -1,0 +1,93 @@
+[
+  {
+    "n": 1,
+    "title": "Video Diffusion Models: A Survey",
+    "url": "https://huggingface.co/papers/2405.03150",
+    "source": "hf-search",
+    "date": "2024-05-06"
+  },
+  {
+    "n": 2,
+    "title": "Video generation models as world simulators",
+    "url": "https://openai.com/index/video-generation-models-as-world-simulators/",
+    "source": "web",
+    "date": "2024-02-15"
+  },
+  {
+    "n": 3,
+    "title": "VBench: Comprehensive Benchmark Suite for Video Generative Models",
+    "url": "https://arxiv.org/abs/2311.17982",
+    "source": "arxiv",
+    "date": "2023-11-29"
+  },
+  {
+    "n": 4,
+    "title": "Towards A Better Metric for Text-to-Video Generation",
+    "url": "https://huggingface.co/papers/2401.07781",
+    "source": "hf-search",
+    "date": "2024-01-15"
+  },
+  {
+    "n": 5,
+    "title": "T2V-CompBench: A Comprehensive Benchmark for Compositional Text-to-video Generation",
+    "url": "https://huggingface.co/papers/2407.14505",
+    "source": "hf-search",
+    "date": "2024-07-19"
+  },
+  {
+    "n": 6,
+    "title": "SyncFlow: Toward Temporally Aligned Joint Audio-Video Generation from Text",
+    "url": "https://arxiv.org/abs/2412.15220",
+    "source": "arxiv",
+    "date": "2024-12-19"
+  },
+  {
+    "n": 7,
+    "title": "JavisDiT: Joint Audio-Video Diffusion Transformer with Hierarchical Spatio-Temporal Prior Synchronization",
+    "url": "https://arxiv.org/pdf/2503.23377",
+    "source": "web",
+    "date": "2025-03-31"
+  },
+  {
+    "n": 8,
+    "title": "LTX-2: Efficient Joint Audio-Visual Foundation Model",
+    "url": "https://arxiv.org/html/2601.03233v1",
+    "source": "web",
+    "date": "2026-01-06"
+  },
+  {
+    "n": 9,
+    "title": "AudioGen-Omni: A Unified Multimodal Diffusion Transformer for Video-Synchronized Audio, Speech, and Song Generation",
+    "url": "https://huggingface.co/papers/2508.00733",
+    "source": "hf-search",
+    "date": "2025-08-01"
+  },
+  {
+    "n": 10,
+    "title": "MOVA: Towards Scalable and Synchronized Video-Audio Generation",
+    "url": "https://huggingface.co/papers/2602.08794",
+    "source": "hf-search",
+    "date": "2026-02-09"
+  },
+  {
+    "n": 11,
+    "title": "T2VSafetyBench: Evaluating the Safety of Text-to-Video Generative Models",
+    "url": "https://proceedings.neurips.cc/paper_files/paper/2024/file/74eed5f568354c2e77dd9b018f38a9d4-Paper-Datasets_and_Benchmarks_Track.pdf",
+    "source": "web",
+    "date": "2024-12-01"
+  },
+  {
+    "n": 12,
+    "title": "SAFESORA: Towards Safety Alignment of Text2Video Generation via a Human Preference Dataset",
+    "url": "https://proceedings.neurips.cc/paper_files/paper/2024/file/1eb543faf7c69e8a7eb8b85f70be818f-Paper-Datasets_and_Benchmarks_Track.pdf",
+    "source": "web",
+    "date": "2024-12-01"
+  },
+  {
+    "n": 13,
+    "title": "Sora 2 System Card",
+    "url": "https://deploymentsafety.openai.com/sora-2",
+    "source": "web",
+    "date": "2025-09-30"
+  }
+]

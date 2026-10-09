@@ -1,0 +1,58 @@
+[
+  {
+    "n": 1,
+    "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+    "url": "https://arxiv.org/abs/2402.03300",
+    "date": "2024-02-05",
+    "source": "web"
+  },
+  {
+    "n": 2,
+    "title": "Tulu 3: Pushing Frontiers in Open Language Model Post-Training",
+    "url": "https://arxiv.org/abs/2411.15124",
+    "date": "2024-11-22",
+    "source": "web"
+  },
+  {
+    "n": 3,
+    "title": "A Survey of Reinforcement Learning for Large Reasoning Models",
+    "url": "https://arxiv.org/abs/2509.08827",
+    "date": "2025-10-09",
+    "source": "arxiv"
+  },
+  {
+    "n": 4,
+    "title": "Secrets of RLHF in Large Language Models Part I: PPO",
+    "url": "https://arxiv.org/abs/2307.04964",
+    "date": "2023-07-10",
+    "source": "web"
+  },
+  {
+    "n": 5,
+    "title": "Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?",
+    "url": "https://arxiv.org/html/2504.13837",
+    "date": "2025-11-24",
+    "source": "web"
+  },
+  {
+    "n": 6,
+    "title": "Math-Shepherd: Verify and Reinforce LLMs Step-by-Step Without Human Annotations",
+    "url": "https://arxiv.org/abs/2312.08935",
+    "date": "2023-12-15",
+    "source": "web"
+  },
+  {
+    "n": 7,
+    "title": "CodeRL: Mastering Code Generation through Pretrained Models and Deep Reinforcement Learning",
+    "url": "https://arxiv.org/abs/2207.01780",
+    "date": "2022-07-05",
+    "source": "web"
+  },
+  {
+    "n": 8,
+    "title": "On Designing Effective RL Reward at Training Time for LLM Reasoning",
+    "url": "https://huggingface.co/papers/2410.15115",
+    "date": "2024-10-19",
+    "source": "hf-search"
+  }
+]
